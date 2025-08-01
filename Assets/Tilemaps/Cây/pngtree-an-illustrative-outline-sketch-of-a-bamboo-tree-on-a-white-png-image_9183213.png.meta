@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: aa59259f7f990c44f9d146fd92474cf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8507394932710317335
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_0
+  - first:
+      213: -497340280495615658
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_1
+  - first:
+      213: -3427192750067853401
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_2
+  - first:
+      213: -6432872276232587194
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_3
+  - first:
+      213: -1129495410690070839
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_4
+  - first:
+      213: -850226228206316843
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_5
+  - first:
+      213: 7216267213896896757
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_6
+  - first:
+      213: 6185138152658629659
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_7
+  - first:
+      213: 1344820831175797284
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_8
+  - first:
+      213: -4977646057398097669
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_9
+  - first:
+      213: 6872146175897466813
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_10
+  - first:
+      213: 7156221012269646050
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_11
+  - first:
+      213: 6470433070444398975
+    second: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2e7dff169afe980800000000000000
+      internalID: -8507394932710317335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 13
+        width: 987
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d09066a71919f0800000000000000
+      internalID: -497340280495615658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 728
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a759631a5a2070d0800000000000000
+      internalID: -3427192750067853401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 766
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b2b16fb8d9b6a0800000000000000
+      internalID: -6432872276232587194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 786
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6626688e93350f0800000000000000
+      internalID: -1129495410690070839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 668
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2da0900c36334f0800000000000000
+      internalID: -850226228206316843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 699
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f05f903cc4552460800000000000000
+      internalID: 7216267213896896757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14feeb216606d550800000000000000
+      internalID: 6185138152658629659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a67c8bb63c9a210800000000000000
+      internalID: 1344820831175797284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8a9239849dbeab0800000000000000
+      internalID: -4977646057398097669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db77dea6984ce5f50800000000000000
+      internalID: 6872146175897466813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c48a6811005360800000000000000
+      internalID: 7156221012269646050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7947c288989bc950800000000000000
+      internalID: 6470433070444398975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_0: -8507394932710317335
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_1: -497340280495615658
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_10: 6872146175897466813
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_11: 7156221012269646050
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_12: 6470433070444398975
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_2: -3427192750067853401
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_3: -6432872276232587194
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_4: -1129495410690070839
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_5: -850226228206316843
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_6: 7216267213896896757
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_7: 6185138152658629659
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_8: 1344820831175797284
+      pngtree-an-illustrative-outline-sketch-of-a-bamboo-tree-on-a-white-png-image_9183213_9: -4977646057398097669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
